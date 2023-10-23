@@ -1,11 +1,3 @@
 # Police-Chase-Game
-![image_006_0124](https://user-images.githubusercontent.com/72947550/187659819-0397d07f-ed6a-4433-af14-58aba9ea0253.jpg)
-![image_006_0182](https://user-images.githubusercontent.com/72947550/187659920-87603738-49f2-4a69-b408-42762597c4d5.jpg)
-![image_006_0220](https://user-images.githubusercontent.com/72947550/187659937-0501b5ec-da31-43eb-be2b-31b83adbcab7.jpg)
-![image_007_0000](https://user-images.githubusercontent.com/72947550/187660021-878f75bf-1706-4799-bf26-a5e775e5b4aa.jpg)
-![image_007_0123](https://user-images.githubusercontent.com/72947550/187660083-449b92ed-bd03-470c-9c3b-ad1f6bb840ec.jpg)
-![image_007_0297](https://user-images.githubusercontent.com/72947550/187660168-b761ebf6-cb1f-4d76-98b9-7d484642e861.jpg)
-![image_008_0022](https://user-images.githubusercontent.com/72947550/187660200-5f0dcb50-a6fb-4f8b-9fac-8812e8d56dd0.jpg)
-![image_009_0058](https://user-images.githubusercontent.com/72947550/187660219-a8ada4d1-d41c-4223-a95f-34460b46dc9c.jpg)
-![image_009_0163](https://user-images.githubusercontent.com/72947550/187660256-1f84f814-dfbb-43ab-9df1-ac957460b4f0.jpg)
-![image_009_0345](https://user-images.githubusercontent.com/72947550/187660336-acc88f3f-a43e-4186-a9ae-8eba0be3f817.jpg)
+
+https://github.com/AbdullahAkyool/Police-Chase-Game/assets/72947550/afef68a2-c644-4db8-b8a5-d509025e505b
